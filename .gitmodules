@@ -1,0 +1,6 @@
+[submodule "clinic-client"]
+	path = clinic-client
+	url = https://github.com/mfranz1/clinic-client.git
+[submodule "appointment-service"]
+	path = appointment-service
+	url = https://github.com/mfranz1/appointment-service.git
