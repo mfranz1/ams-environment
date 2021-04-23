@@ -21,7 +21,7 @@ Open a new tab
 ```sh
 $ cd clinic-client
 $ npm install
-$ ng serve --configuration=experimental
+$ ng serve
 ```
 ### Ports 
 
